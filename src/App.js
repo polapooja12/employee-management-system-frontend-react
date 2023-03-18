@@ -49,8 +49,8 @@ class App extends Component {
         window.alert(
           `To explore the feature of this application here is the temporary id and pass for all account
       Admin:
-          id:admin@gmail.com
-          pass:admin
+          id:admin123@gmail.com
+          pass:adminpass
       Hr:
           id:hr@gmail.com
           pass:hr
